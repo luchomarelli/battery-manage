@@ -5,7 +5,7 @@
 void setup()
 {
     Serial.begin(115200);
-    Serial.println("Inicia programa");
+    Serial.println("Inicio de programa");
     pinMode(RELAY_1, OUTPUT);
 }
 
