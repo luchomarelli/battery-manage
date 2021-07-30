@@ -7,6 +7,6 @@ void setup()
 
 void loop()
 {
-    Serial.println("Este es el loop");
+    Serial.println("[LOOP]: mensaje.");
     delay(2000);
 }
