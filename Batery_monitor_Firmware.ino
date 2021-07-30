@@ -7,6 +7,6 @@ void setup()
 
 void loop()
 {
-    Serial.println("[LOOP]: mensaje.");
+    Serial.println("[LOOP]: mensaje de testeo.");
     delay(2000);
 }
